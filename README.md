@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Amir
+# Hi there 👋 My name is Amir
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" height = "160"   src="https://github-readme-stats.vercel.app/api?username=amirshig&show_icons=true&theme=tokyonight">
