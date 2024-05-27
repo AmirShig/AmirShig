@@ -3,7 +3,7 @@
 ## About me:
 >- Junior C++ developer from Russia
 >- Studying at School 21
->- How to rach me:  
+>- How to reach me:  
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ShigapovAmir)
 [![G-Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raisinib@gmail.com)
 
