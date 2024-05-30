@@ -48,25 +48,25 @@
 <!-- [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=raisinib)](https://github.com/anuraghazra/github-readme-stats) 
 -->
 ### *SQL*
-| Project name  | Description  |
-| ------------- | ------------------------ |
-| [SQL Info](https://github.com/AmirShig/SQL_Info) | Analysis and statistics of school data 21. |
-| [SQL Bootcamp](https://github.com/AmirShig/SQL_Bootcamp) |  Two-week intensive course on the basics of sql. |
+| Project name  | Description  | Stack |
+| ------------- | ------------------------ | ------------ |
+| [SQL Info](https://github.com/AmirShig/SQL_Info) | Analysis and statistics of school data 21. | PostgreSQL |
+| [SQL Bootcamp](https://github.com/AmirShig/SQL_Bootcamp) |  Two-week intensive course on the basics of sql. | PostgreSQL |
 
 
 ### *C++*
-| Project name  | Description  |
-| ------------- | ------------------------ |
-| [3D_Viewer v2.0](https://github.com/AmirShig/3D_Viewer_v2.0) | A program for visualizing a wireframe model in three-dimensional space. |
-| [Brick Game](https://github.com/AmirShig/BrickGame_v2.0) |  Set of classic games that includes the snake game and Tetris. |
-| [Containers library](https://github.com/AmirShig/Containers) | The library includes implementations of various data containers such as list, queue, set, map, stack, and vector. |
-| [Matrix v2.0](https://github.com/AmirShig/matrix_cpp) | This project is a library for working with matrices in C++. |
+| Project name  | Description  | Stack |
+| ------------- | ------------------------ | ------------ |
+| [3D_Viewer v2.0](https://github.com/AmirShig/3D_Viewer_v2.0) | A program for visualizing a wireframe model in three-dimensional space. | C++, OOP, Qt, OpenGL, CMake, Makefile, Gtest |
+| [Brick Game](https://github.com/AmirShig/BrickGame_v2.0) |  Set of classic games that includes the snake game and Tetris. | C++, OOP, Qt, CMake, Makefile, Gtest |
+| [Containers library](https://github.com/AmirShig/Containers) | The library includes implementations of various data containers such as list, queue, set, map, stack, and vector. | C++, OOP, Makefile, Gtest |
+| [Matrix v2.0](https://github.com/AmirShig/matrix_cpp) | This project is a library for working with matrices in C++. | C++, OOP, Makefile, Gtest |
 
 ### *C*
-| Project name  | Description  |
-| ------------- | ------------------------ |
-| [3D_Viewer ](https://github.com/AmirShig/3DViewer_C) | A program for visualizing a wireframe model in three-dimensional space. |
-| [Smart Calculator](https://github.com/AmirShig/Smart-Calculator) |  Implementation of a smart calculator. |
-| [Matrix v1.0](https://github.com/AmirShig/c_matrix) | This project is a library for working with matrices in C. |
+| Project name  | Description  | Stack |
+| ------------- | ------------------------ | ------------ |
+| [3D_Viewer ](https://github.com/AmirShig/3DViewer_C) | A program for visualizing a wireframe model in three-dimensional space. | C/C++, OOP, Qt, OpenGL, QMake, Makefile, check.h library |
+| [Smart Calculator](https://github.com/AmirShig/Smart-Calculator) |  Implementation of a smart calculator. | C/C++, OOP, Qt, QMake, Makefile, check.h library |
+| [Matrix v1.0](https://github.com/AmirShig/c_matrix) | This project is a library for working with matrices in C. | C, Makefile, check.h library |
 
 
