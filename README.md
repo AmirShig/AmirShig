@@ -64,8 +64,12 @@
 ### *C*
 | Project name  | Description  | Stack |
 | ------------- | ------------------------ | ------------ |
-| [3D_Viewer ](https://github.com/AmirShig/3DViewer_C) | A program for visualizing a wireframe model in three-dimensional space. | C/C++, OOP, Qt, OpenGL, QMake, Makefile, check.h library |
+| [3D Viewer ](https://github.com/AmirShig/3DViewer_C) | A program for visualizing a wireframe model in three-dimensional space. | C/C++, OOP, Qt, OpenGL, QMake, Makefile, check.h library |
 | [Smart Calculator](https://github.com/AmirShig/Smart-Calculator) |  Implementation of a smart calculator. | C/C++, OOP, Qt, QMake, Makefile, check.h library |
 | [Matrix v1.0](https://github.com/AmirShig/c_matrix) | This project is a library for working with matrices in C. | C, Makefile, check.h library |
+| [Decimal](https://github.com/AmirShig/Decimal) | Implementation of the decimal.h library for financial calculations in C. | C, Makefile, check.h library |
+| [String Library](https://github.com/AmirShig/StringLib) | Implementation of the string.h library with additional functions in C. | C, Makefile, check.h library |
+| [Math Library](https://github.com/AmirShig/MathLib) | Implementation of the math.h library with basic mathematical functions in C. | C, Makefile, check.h library |
+| [Bash Utils](https://github.com/AmirShig/BashUtils) | Implementation of basic Bash utilities (cat and grep) in C. | C, Makefile |
 
 
