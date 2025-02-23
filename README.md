@@ -41,11 +41,15 @@
   <img align="center"  height = "160"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirshig&show_icons=true&theme=tokyonight&langs_count=10&layout=compact" />
 </a>
 -->
+
+<!--
 ## LeetCode
 ![LeetCode Stats](https://leetcode.card.workers.dev/AmirShig?theme=dark&font=baloo&extension=null)
+-->
 
 <!-- [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=raisinib)](https://github.com/anuraghazra/github-readme-stats) 
 -->
+
 ### *SQL*
 | Project name  | Description  | Stack |
 | ------------- | ------------------------ | ------------ |
